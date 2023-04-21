@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CFDemo</id>
+    <version>1.0.0</version>
+    <authors>CFDemo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="EntityFramework" version="6.4.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\X6NKAPOO\source\repos\CFDemo\bin\Debug\net6.0\CFDemo.runtimeconfig.json" target="lib\net6.0\CFDemo.runtimeconfig.json" />
+    <file src="C:\Users\X6NKAPOO\source\repos\CFDemo\bin\Debug\net6.0\CFDemo.dll" target="lib\net6.0\CFDemo.dll" />
+  </files>
+</package>
